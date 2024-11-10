@@ -33,7 +33,7 @@ export default function LoginSignUp() {
 
           <div className="flex gap-8 ">
             <ActionButton
-              label="Sign Up"
+              label="Sign Up "
               activeAction="Sign Up"
               setAction={handleSetAction}
               currentAction={action}
