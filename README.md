@@ -1,8 +1,6 @@
-# Sign-Up & Login Form
+# Login-SignUp
 
-### Description
-
-**Sign-Up & Login Form** est une application moderne et sécurisée permettant aux utilisateurs de s’inscrire et de se connecter en toute simplicité. Conçue avec React.js et Tailwind CSS, cette application offre une expérience utilisateur intuitive et fluide, tout en intégrant des fonctionnalités essentielles pour la validation des données.
+### Une application moderne pour la gestion des authentifications
 
 ---
 
@@ -11,60 +9,61 @@
 - [Aperçu](#aperçu)
 - [Fonctionnalités](#fonctionnalités)
 - [Technologies](#technologies)
-- [Instructions de déploiement](#instructions-de-dépouillement)
+- [Déploiement](#déploiement)
 - [Auteur](#auteur)
 
 ---
 
 ## Aperçu
 
-**Sign-Up & Login Form** est une solution efficace pour l'inscription et la connexion des utilisateurs. Conçue pour être responsive, elle offre une interface utilisateur moderne compatible avec tous les appareils. L’application utilise des techniques de validation en temps réel pour garantir la sécurité des utilisateurs dès la saisie des informations.
+**Login-SignUp** est une application moderne et intuitive conçue pour gérer efficacement les processus de connexion et inscription. Avec une interface simple et élégante, cette application permet aux utilisateurs de s’inscrire, de se connecter et de gérer leur profil en toute simplicité. Que ce soit sur un ordinateur, une tablette ou un smartphone, **Login-SignUp** s'adapte parfaitement à tous les écrans grâce à son design responsive.
+
+Le projet utilise **React.js** et **Tailwind CSS** pour offrir une expérience utilisateur fluide et rapide. Il est facile à personnaliser et à intégrer dans vos propres projets.
 
 ---
 
 ## Aperçu visuel
 
-### Page d'Inscription
+### Desktop View
 
-![Sign-Up Form](./public/signUp.png)
+![Login-SignUp - Desktop](./public/LoginSignUpDesktop.png)
 
-### Page de Connexion
+### Mobile View
 
-![Login Form](./public/login.png)
+![Login-SignUp - Mobile](./public/LoginSignUpMobile.png)
 
 ---
 
 ## Fonctionnalités
 
-- **Inscription** :
-  - Saisie des informations de base : email, mot de passe et nom d’utilisateur.
-  - Validation des champs en temps réel avec des messages d’erreur pertinents.
-  - Stockage sécurisé des données grâce à LocalStorage.
-  
-- **Connexion** :
-  - Saisie du mot de passe et de l’email.
-  - Vérification des informations saisies avec des messages d’erreur personnalisés.
-  
-- **Gestion des champs** :
-  - Masquage et affichage des mots de passe avec un bouton dédié.
-  
-- **Notifications interactives** :
-  - Utilisation de **React Toastify** pour des messages de confirmation ou d’échec lors de l’inscription ou de la connexion.
+- **Formulaire de connexion** : Permet aux utilisateurs de s’identifier à l’application.
+- **Formulaire d’inscription** : Offre aux nouveaux utilisateurs la possibilité de créer un compte.
+- **Validation des formulaires** : Intégration de **React Hook Form** pour gérer efficacement la validation.
+- **Réinitialisation du mot de passe** : Offre la possibilité de réinitialiser le mot de passe via email.
+- **Gestion des erreurs** : Messages d’erreur clairs et explicites pour guider les utilisateurs.
+- **Responsive Design** : Optimisé pour une utilisation fluide sur tous les appareils.
+- **Transitions fluides** : Animations et effets modernes pour une expérience interactive.
 
 ---
 
 ## Technologies
 
-- **React.js** : Framework JavaScript pour le développement d’interface utilisateur dynamique.
-- **Tailwind CSS** : Framework CSS utilitaire pour le design moderne et rapide.
+- **React.js** : Framework JavaScript pour construire une interface utilisateur dynamique.
+- **Tailwind CSS** : Framework CSS utilitaire pour un design rapide et flexible.
+- 
+---
 
+## Déploiement
+
+L'application est déployée sur [Login-SignUp App](https://elgargati.github.io/Login-SignUp/).
 
 ---
 
-## Instructions de déploiement
+## Auteur
 
-L'application peut être déployée en suivant ces étapes :
+- **Mohammed El Gargati**
+- GitHub : [Elgargati](https://github.com/Elgargati)
 
-1. Clonez le projet :
-   ```bash
-   git clone https://github.com/Elgargati/SignUp_Login_Form.git
+---
+
+N'hésitez pas à me contacter si vous avez des questions ou des suggestions !
