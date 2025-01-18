@@ -1,10 +1,12 @@
-import { useState } from "react";
-import LoginSignUp from "./Components/LoginSignUp/LoginSignUp";
+import React from "react";
+import AuthForm from "./components/AuthForm";
 
-export default function App() {
+const App = () => {
   return (
     <>
-      <LoginSignUp />
+      <AuthForm />
     </>
   );
-}
+};
+
+export default App;
