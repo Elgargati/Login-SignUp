@@ -57,9 +57,7 @@
 
 - **React.js** : Framework JavaScript pour le développement d’interface utilisateur dynamique.
 - **Tailwind CSS** : Framework CSS utilitaire pour le design moderne et rapide.
-- **React Toastify** : Bibliothèque pour les notifications interactives.
-- **LocalStorage** : Stockage local des données utilisateurs.
-- **Hook Form** : Utilisé pour gérer la validation des formulaires de manière simple et efficace.
+
 
 ---
 
