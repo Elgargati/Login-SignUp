@@ -26,11 +26,9 @@ Le projet utilise **React.js** et **Tailwind CSS** pour offrir une expérience u
 
 ### Desktop View
 
-![Login-SignUp - Desktop](./public/LoginSignUpDesktop.png)
+![Login-SignUp - Desktop](./public/login.png)
+![Login-SignUp - Desktop](./public/signUp.png)
 
-### Mobile View
-
-![Login-SignUp - Mobile](./public/LoginSignUpMobile.png)
 
 ---
 
