@@ -48,7 +48,7 @@ Le projet utilise **React.js** et **Tailwind CSS** pour offrir une expérience u
 
 - **React.js** : Framework JavaScript pour construire une interface utilisateur dynamique.
 - **Tailwind CSS** : Framework CSS utilitaire pour un design rapide et flexible.
-- 
+
 ---
 
 ## Déploiement
